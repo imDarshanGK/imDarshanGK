@@ -1,5 +1,8 @@
 # Hi there, I'm Darshan👋🏻
 
+* 🌍  I'm based in Karnataka, India
+* ✉️  You can contact me at:darshan241210s@gmail.com
+* 🧠  I'm learning Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
