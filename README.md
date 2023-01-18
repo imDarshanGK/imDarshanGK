@@ -1,5 +1,6 @@
 # Hi there, I'm Darshan👋🏻
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=0e75b6&style=flat" alt="imDarshanGK" /> </p>
 * 🧠  I'm learning Python
 * ✉️  You can contact me at:darshan241210s@gmail.com
 * 🌍  I'm based in Karnataka, India
