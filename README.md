@@ -1,8 +1,11 @@
 # Hi there, I'm Darshan👋🏻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=0e75b6&style=flat" alt="imDarshanGK" /> </p>
+
 * 🧠  I'm learning Python
+
 * ✉️  You can contact me at:darshan241210s@gmail.com
+
 * 🌍  I'm based in Karnataka, India
 
 
@@ -18,3 +21,31 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imDarshanGK&layout=compact" />
+
+<a href="http://www.github.com/imDarshanGK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&stroke=facc15&background=000000&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+
+<a href="http://www.github.com/imDarshanGK"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=imDarshanGK&bg_color=000000&color=facc15&line=ef4444&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+
+
+
