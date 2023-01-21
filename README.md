@@ -24,13 +24,6 @@
 
 <a href="http://www.github.com/imDarshanGK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&stroke=facc15&background=000000&ring=ec4899&fire=ec4899&currStreakNum=facc15&currStreakLabel=ec4899&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-
-<a href="http://www.github.com/imDarshanGK"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=imDarshanGK&bg_color=000000&color=facc15&line=ef4444&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-  
-  
-  
-  
-  
   
   
   
