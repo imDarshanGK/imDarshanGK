@@ -14,7 +14,7 @@
 <a href="https://twitter.com/imDarshanGK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imDarshanGK" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imdarshangk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdarshangk" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imdarshangk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imdarshangk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshangk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshangk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/imDarshanGK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imDarshanGK" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
