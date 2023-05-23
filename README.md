@@ -4,7 +4,7 @@
 
 * 🧠  I'm learning Python
 
-* ✉️  You can contact me at:darshan241210s@gmail.com
+* ✉️  You can contact me at:imdarshanchief@gmail.com
 
 * 🌍  I'm based in Karnataka, India
 
