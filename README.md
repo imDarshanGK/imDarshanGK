@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=0e75b6&style=flat" alt="imDarshanGK" /> </p>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 📫 Reach out to me at **imdarshanchief@gmail.com**
   
