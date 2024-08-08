@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 📫 Reach out to me at **imdarshanchief@gmail.com**
+- 💻 All of my projects are available on [GitHub](https://github.com/imDarshanGK)
+
+- 📫 Reach out to me at **darshanatmail@gmail.com**
   
 <h3 align="left">GitHub Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&locale=en" alt="imDarshanGK" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&" alt="imDarshanGK" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK" alt="GitHub Streak" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
