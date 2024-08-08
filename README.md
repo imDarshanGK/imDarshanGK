@@ -12,6 +12,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&locale=en" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK" alt="GitHub Streak" />
 </p>
 
