@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=0e75b6&style=flat" alt="imDarshanGK" /> </p>
-
 <img src="https://raw.githubusercontent.com/imDarshanGK/imDarshanGK/main/Assets/illustrations.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=0e75b6&style=flat" alt="imDarshanGK" /> </p>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
