@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=0e75b6&style=flat" alt="imDarshanGK" /> </p>
 
+<img src="https://raw.githubusercontent.com/imDarshanGK/imDarshanGK/main/Assets/illustrations.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 - 🌱 I’m currently learning **Python and Machine Learning**
 
 - 💻 All of my projects are available on [GitHub](https://github.com/imDarshanGK)
@@ -17,4 +19,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  
