@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-<img src="https://raw.githubusercontent.com/imDarshanGK/imDarshanGK/main/Assets/illustrations.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=003366&style=flat" alt="imDarshanGK" />
