@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=E0E0E0&bg_color=000000&border_color=003366" alt="imDarshanGK" width="400" />
 </p>
 
-<p>
+<p>&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=003366" alt="imDarshanGK" width="400" />
 </p>
 
