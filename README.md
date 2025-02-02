@@ -49,5 +49,5 @@
 </div>
 </details>
 <p align="center">
-  <b>Show your support by giving a ⭐ to my repositories!</b>
+  <b>Show some ❤️ by starring some of the repositories!.
 </p>
