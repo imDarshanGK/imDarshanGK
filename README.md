@@ -29,13 +29,24 @@
   <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 </details>
 
-## ⚙️ GitHub Analytics:
+## <span style="color:#00AEEF">⚙️ GitHub Analytics:</span>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=E0E0E0&bg_color=000000&border_color=003366" alt="GitHub Stats" width="350" style="margin-right: 40px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=003366" alt="GitHub Streak" width="366"/>
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=00AEEF&bg_color=000000&border_color=00AEEF" alt="GitHub Stats" height="155" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF" alt="GitHub Streak" height="155" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
 </p>
+
+<p align="left">
+  <img height="147" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imDarshanGK&theme=highcontrast" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
+
+  <img height="147" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imDarshanGK&theme=highcontrast" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
+</p>
+
+
+</p>
+
+
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
