@@ -27,16 +27,15 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;<br>
   Operating Systems: 
   <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-</details
+</details>
 
 ## ⚙️ GitHub Analytics:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=E0E0E0&bg_color=000000&border_color=003366" alt="GitHub Stats" width="350" style="margin-right: 40px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=003366" alt="GitHub Streak" width="368"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=003366" alt="GitHub Streak" width="366"/>
+<br>
 </p>
-
-
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -49,5 +48,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
-
-</details>
+<p align="center">
+  <b>Show your support by giving a ⭐ to my repositories!</b>
+</p>
