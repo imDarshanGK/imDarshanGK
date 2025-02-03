@@ -33,22 +33,15 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=00AEEF&bg_color=000000&border_color=00AEEF" alt="GitHub Stats" height="155" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF" alt="GitHub Streak" height="155" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
 </p>
 
 <p align="left">
-  <img height="147" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imDarshanGK&theme=highcontrast" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
-
-  <img height="147" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imDarshanGK&theme=highcontrast" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
+  <img height="147" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imDarshanGK&theme=dark&border_color=00AEEF&bg_color=000000" style="margin-right: 20px; border-radius: 10px; border: 2px solid #00AEEF;"/>
+  <img height="148em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imDarshanGK&theme=highcontrast&text_color=FFFFFF&bg_color=000000&ring_color=00AEEF&fire_color=00AEEF&icon_color=00AEEF" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
 </p>
 
-
-</p>
-
-
-
-<details>	
+<details>   
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -60,5 +53,5 @@
 </div>
 </details>
 <p align="center">
-  <b>Show some ❤️ by starring some of the repositories!.
+  <b>Show some ❤️ by starring some of the repositories!</b>
 </p>
