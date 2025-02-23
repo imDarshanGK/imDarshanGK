@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="250" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAzMDAzMzEsIm5iZiI6MTc0MDMwMDAzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIzVDA4NDAzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwOTJhYzk3OTY3M2Y3ODhjOTUyYmI2ZDk4MDU4Yjg5N2Y1ZmU5M2Y3ODg4NDg5ZmJhMjRhZmU4OTBkM2FiYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.m52X7mJhGrMdyQ1ZvbIDB4eONMbE7stMGN3v-3tRLsc">
+<img align="right" alt="Coding" width="250" src="Assets/illustration.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=003366&style=flat" alt="imDarshanGK" />
