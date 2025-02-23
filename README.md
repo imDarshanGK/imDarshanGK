@@ -23,9 +23,6 @@
 <details>
   <summary><b>Languages</b></summary><br>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">&nbsp;
 </details>
 
 <details>
@@ -33,7 +30,6 @@
   <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
   <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
 </details>
 
 <details>
@@ -41,13 +37,11 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat">&nbsp;
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat">&nbsp;
 </details>
 
 <details>
   <summary><b>Operating Systems</b></summary><br>
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
 </details>
 
 ---
