@@ -76,10 +76,10 @@
 
 ### 🌟 **Featured Projects**
 
-- [Python Quiz Game](https://github.com/imDarshanGK/python-quiz-game) - A fun interactive quiz game built with Python.  
-- [Hangman Game](https://github.com/imDarshanGK/hangman) - A classic Hangman game implemented in Python.  
-- [Encryption & Decryption](https://github.com/imDarshanGK/encryption-decryption) - A simple program for encrypting and decrypting messages.  
-- [Coffee Machine Simulation](https://github.com/imDarshanGK/coffee-machine) - A Python simulation of a coffee machine.  
+- [Python Quiz Game](https://github.com/imDarshanGK/python_quiz_game) - A fun interactive quiz game built with Python.  
+- [Hangman Game](https://github.com/imDarshanGK/Hangman-game-python) - A classic Hangman game implemented in Python.  
+- [Encryption & Decryption](https://github.com/imDarshanGK/CaesarCipher-Python) - A simple program for encrypting & decrypting messages.  
+- [Coffee Machine Simulation](https://github.com/imDarshanGK/coffee-machine-simulation) - A Python simulation of a coffee machine.  
 
 ---
 
