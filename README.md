@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" src="Assets/illustration.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=003366&style=flat" alt="imDarshanGK" />
+  <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=brightgreen&style=flat" alt="imDarshanGK" />
 </p>
 
 ### 👨‍💻 **About Me**
@@ -13,9 +13,11 @@
 - 💻 All of my projects are available on [GitHub](https://github.com/imDarshanGK).  
 - 👨‍💻 I’m actively working on **open-source contributions**.  
 - 📩 Reach out to me at **darshanatmail@gmail.com**.  
-- ⚡ Fun fact: **I love solving problems and building cool stuff!**  
+- ⚡ Fun fact: **I love solving real-world challenges and building innovative solutions!**  
 - 🚀 **Exploring:** AI and Machine Learning to create smarter applications.  
 - 🌟 **Contributing:** Actively participating in **open-source events**.
+
+---
 
 ### 🛠️ **Tech Stack**
 
@@ -43,20 +45,18 @@
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat">&nbsp;
 </details>
 
----
-
 ### 📊 **GitHub Analytics**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=00AEEF&bg_color=000000&border_color=00AEEF" alt="GitHub Stats" height="105" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF" alt="GitHub Streak" height="105" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=00AEEF&bg_color=000000&border_color=00AEEF" alt="GitHub Stats" height="105"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF" alt="GitHub Streak" height="105"/>
 </p>
 
-### 🏆 **Achievements & Badges**
+### 🏆 **My Achievements & Recognitions**
 
 <details>
   <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-  <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <div align='center' style='display:flex; align-items:center; gap: 10px;'>
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
@@ -68,10 +68,10 @@
 
 ### 🌟 **Featured Projects**
 
-- [Python Quiz Game](https://github.com/imDarshanGK/python_quiz_game) - A fun interactive quiz game built with Python.  
-- [Hangman Game](https://github.com/imDarshanGK/Hangman-game-python) - A classic Hangman game implemented in Python.  
-- [Encryption & Decryption](https://github.com/imDarshanGK/CaesarCipher-Python) - A simple program for encrypting & decrypting messages.  
-- [Coffee Machine Simulation](https://github.com/imDarshanGK/coffee-machine-simulation) - A Python simulation of a coffee machine.  
+- 🚀 [Python Quiz Game](https://github.com/imDarshanGK/python_quiz_game) - A fun interactive quiz game built with Python.  
+- 🧩 [Hangman Game](https://github.com/imDarshanGK/Hangman-game-python) - A classic Hangman game implemented in Python.  
+- 🔐 [Encryption & Decryption](https://github.com/imDarshanGK/CaesarCipher-Python) - A simple program for encrypting & decrypting messages.  
+- ☕ [Coffee Machine Simulation](https://github.com/imDarshanGK/coffee-machine-simulation) - A Python simulation of a coffee machine.  
 
 ---
 
