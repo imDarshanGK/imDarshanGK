@@ -7,16 +7,15 @@
   <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=003366&style=flat" alt="imDarshanGK" />
 </p>
 
-
 ### 👨‍💻 **About Me**
 
-- 🌱 I’m currently learning **Python, Machine Learning, and Data Science**.  
+- 🌱 I’m currently learning **Python, Machine Learning**.  
 - 💻 All of my projects are available on [GitHub](https://github.com/imDarshanGK).  
 - 👨‍💻 I’m actively working on **open-source contributions**.  
 - 📩 Reach out to me at **darshanatmail@gmail.com**.  
 - ⚡ Fun fact: **I love solving problems and building cool stuff!**  
-- 🚀 **New Addition:** I’m exploring **AI and Machine Learning** to build smarter applications.  
-- 🌟 **New Addition:** Actively contributing to **open-source events**.  
+- 🚀 **Exploring:** AI and Machine Learning to create smarter applications.  
+- 🌟 **Contributing:** Actively participating in **open-source events**.
 
 ### 🛠️ **Tech Stack**
 
@@ -49,10 +48,9 @@
 ### 📊 **GitHub Analytics**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=00AEEF&bg_color=000000&border_color=00AEEF" alt="GitHub Stats" height="100" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF" alt="GitHub Streak" height="100" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&theme=dark&text_color=00AEEF&bg_color=000000&border_color=00AEEF" alt="GitHub Stats" height="105" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=dark&background=000000&border=00AEEF&ring=00AEEF&fire=00AEEF&currStreakLabel=00AEEF" alt="GitHub Streak" height="105" style="border-radius: 10px; border: 2px solid #00AEEF;"/>
 </p>
-
 
 ### 🏆 **Achievements & Badges**
 
