@@ -41,6 +41,15 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
   <summary><b>📈 Get my Code stats</b></summary><br>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 July 2025 - To: 06 August 2025
+
+Total Time: 2 hrs 59 mins
+
+Python   2 hrs 59 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 </details> 
