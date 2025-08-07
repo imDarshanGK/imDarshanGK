@@ -14,8 +14,8 @@
 
 ---
 
-<b>🛠 Tech Stack/ Certifications</b><br><br> 
-Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<b>🛠 Tech Stack</b><br><br> 
+Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;<br>
 Frameworks and Libraries:
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
