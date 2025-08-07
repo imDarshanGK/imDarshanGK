@@ -40,8 +40,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <details>	
   <summary><b>📈 Get my Code stats</b></summary><br>
 
-  [![wakatime](https://wakatime.com/badge/user/4de48fe7-cea5-4782-89ef-db8ea0acd77f.svg)](https://wakatime.com/@imDarshanGK)
-
+[![wakatime](https://wakatime.com/badge/user/4de48fe7-cea5-4782-89ef-db8ea0acd77f.svg)](https://wakatime.com/@4de48fe7-cea5-4782-89ef-db8ea0acd77f)
 </details>
 
 
