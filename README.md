@@ -48,30 +48,32 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <!--- Footer Stats & Social Media -->
 
 <p align="left"> 
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=imDarshanGK&label=Profile%20views&color=brightgreen&style=flat" alt="imDarshanGK" />
-<!-- Twitter (X) follow -->
-<a href="https://x.com/imDarshanGK">
-  <img src="https://img.shields.io/twitter/follow/imDarshanGK?label=Follow%20Me&style=social" alt="Twitter Follow"/>
-</a>
 
-<!-- GitHub Stars -->
-<a href="https://github.com/imDarshanGK?tab=stars">
-  <img src="https://img.shields.io/github/stars/imDarshanGK?label=Star%20Gazers&style=social" alt="GitHub Stars"/>
-</a>
+  <!-- Twitter (X) follow -->
+  <a href="https://x.com/imDarshanGK">
+    <img src="https://img.shields.io/twitter/follow/imDarshanGK?label=Follow%20Me&style=social" alt="Twitter Follow"/>
+  </a>
 
-<!-- GitHub Followers -->
-<a href="https://github.com/imDarshanGK">
-  <img src="https://img.shields.io/github/followers/imDarshanGK?style=social" alt="GitHub Followers"/>
-</a>
+  <!-- GitHub Stars -->
+  <a href="https://github.com/imDarshanGK?tab=stars">
+    <img src="https://img.shields.io/github/stars/imDarshanGK?label=Star%20Gazers&style=social" alt="GitHub Stars"/>
+  </a>
 
-<!-- Bluesky Profile -->
-<a href="https://bsky.app/profile/imDarshanGK.bsky.social">
-  <img src="https://img.shields.io/badge/Bluesky-Follow-blue?style=social&logo=bluesky" alt="Bluesky Profile"/>
-</a>
+  <!-- GitHub Followers -->
+  <a href="https://github.com/imDarshanGK">
+    <img src="https://img.shields.io/github/followers/imDarshanGK?style=social" alt="GitHub Followers"/>
+  </a>
 
+  <!-- Bluesky Profile -->
+  <a href="https://bsky.app/profile/imDarshanGK.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-Follow-blue?style=social&logo=bluesky" alt="Bluesky Profile"/>
+  </a>
 </p>
-
 
 <p align="center">
   <b>Show some ❤️ by starring some of my repositories!</b>
 </p>
+
+
