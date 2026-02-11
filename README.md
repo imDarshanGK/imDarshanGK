@@ -29,8 +29,6 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <div align="center">
 
 <!-- Row 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=imDarshanGK&show_icons=true&hide=stars&bg_color=0D1117&title_color=58A6FF&text_color=9CA3AF&icon_color=58A6FF&hide_border=true" width="46%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imDarshanGK&theme=github-dark&hide_border=true" width="46%" alt="GitHub Streak" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imDarshanGK&theme=github_dark" width="60%" alt="GitHub Summary" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imDarshanGK&theme=github_dark&utcOffset=5.5" width="29%" alt="Commit Time" />
 
