@@ -53,7 +53,7 @@ principles = [
 
 **[AI-Dev-Assistant](https://github.com/imDarshanGK/Ai-dev-assistant)**&nbsp;&nbsp;`GSSoC 2026`
 
-Code intelligence for Python, JS, TS, Java, C++ — bug detection, plain-English fixes, no account needed.
+Code intelligence for Python, JS, TS, Java, C++ - bug detection, plain-English fixes, no account needed.
 
 ![](https://img.shields.io/github/stars/imDarshanGK/Ai-dev-assistant?style=flat-square&color=39D353&label=★)
 ![](https://img.shields.io/github/forks/imDarshanGK/Ai-dev-assistant?style=flat-square&color=39D353)
@@ -64,7 +64,7 @@ Code intelligence for Python, JS, TS, Java, C++ — bug detection, plain-English
 
 **[LocalMind](https://github.com/imDarshanGK/localmind)**&nbsp;&nbsp;`offline · private`
 
-Full RAG pipeline — chat with any file without sending a single byte to the cloud.
+Full RAG pipeline - chat with any file without sending a single byte to the cloud.
 
 ![](https://img.shields.io/github/stars/imDarshanGK/localmind?style=flat-square&color=39D353&label=★)
 ![](https://img.shields.io/github/forks/imDarshanGK/localmind?style=flat-square&color=39D353)
@@ -88,7 +88,7 @@ Drop your tasks in, get a priority-scored timetable out. ML handles the scheduli
 
 **[QR Studio](https://github.com/imDarshanGK/qr-studio)**&nbsp;&nbsp;`zero backend`
 
-Custom QR codes with logo, style controls, SVG/PNG export — no server, no tracking, 100% in-browser.
+Custom QR codes with logo, style controls, SVG/PNG export - no server, no tracking, 100% in-browser.
 
 ![](https://img.shields.io/github/stars/imDarshanGK/qr-studio?style=flat-square&color=39D353&label=★)
 ![](https://img.shields.io/badge/HTML+JS-F7DF1E?style=flat-square)
